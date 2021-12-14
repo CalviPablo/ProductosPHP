@@ -1,0 +1,18 @@
+{
+    "1": {
+        "id_lanzamientos": 1,
+        "imagen": "img/proximo_lanzamientos/ps5_img.jpg",
+        "nombre": "PlayStation 5",
+        "descripcion": "Experimenta una carga a velocidad sorprendente, una inmersión más profunda con soporte para respuesta hápitica, gatillos adaptativos y audio 3D, ademas de una generación nueva de juegos de PlayStation®5.",
+        "marca": "Sony",
+        "trailer": "https://www.youtube.com/watch?v=RkC0l4iekYo"
+    },
+    "2": {
+        "id_lanzamientos": 2,
+        "imagen": "img/proximo_lanzamientos/xbox.jpg",
+        "nombre": "Xbox Series X|S",
+        "descripcion": "Los juegos creados con el kit de desarrollo de Xbox Series X|S ofrecen tiempos de carga significativamente reducidos y efectos visuales sorprendentes a hasta 120 FPS.",
+        "marca": "Microsoft",
+        "trailer": "https://www.youtube.com/watch?v=0tUqIHwHDEc"
+    }
+}

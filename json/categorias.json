@@ -1,0 +1,19 @@
+{
+    "1": {
+        "id_categoria": 1,
+        "nombre": "Todos"
+    },
+    "2": {
+        "id_categoria": 2,
+        "nombre": "Consolas"
+    },
+    "3": {
+        "id_categoria": 3,
+        "nombre": "Accesorios"
+    },
+    "4": {
+        "id_categoria": 4,
+        "nombre": "Juegos"
+    }
+
+}

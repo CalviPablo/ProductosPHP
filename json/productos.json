@@ -1,0 +1,212 @@
+{
+    "1": {
+        "id_producto": 1,
+        "foto": "img/productos/PlayStation4.jpg",
+        "nombre": "PlayStation 4",
+        "descripcion": "Consola PlayStation 4",
+        "precio": "10000$",
+        "marca": "Sony",
+        "modelo": "1v",
+        "id_categoria": "2"
+    },
+    "2": {
+        "id_producto": 2,
+        "foto": "img/productos/PlayStation5.jpg",
+        "nombre": "PlayStation 5",
+        "descripcion": "Consola PlayStation 5",
+        "precio": "25000$",
+        "marca": "Sony",
+        "modelo": "2v",
+        "id_categoria": "2"
+    },
+    "3": {
+        "id_producto": 3,
+        "foto": "img/productos/XboxOne.jpg",
+        "nombre": "Xbox One",
+        "descripcion": "Consola Xbox One",
+        "precio": "11999$",
+        "marca": "Microsoft",
+        "modelo": "1v",
+        "id_categoria": "2"
+    },
+    "4": {
+        "id_producto": 4,
+        "foto": "img/productos/XboxOneS.jpeg",
+        "nombre": "Xbox One Series X",
+        "descripcion": "La Xbox Series X llegara el 10 de noviembre de 2020. La consola de Microsoft contara con un CPU personalizado ADM Zen 2 con ocho nucleos a una velocidad de 2.8GHz",
+        "precio": "29000$",
+        "marca": "Microsoft",
+        "modelo": "1v",
+        "id_categoria": "2"
+    },
+    "5": {
+        "id_producto": 5,
+        "foto": "img/productos/Switch.jpg",
+        "nombre": "Nintendo Switch",
+        "descripcion": "Consola Nintendo Switch",
+        "precio": "12000$",
+        "marca": "Nintendo",
+        "modelo": "1v",
+        "id_categoria": "2"
+    },
+    "6": {
+        "id_producto": 6,
+        "foto": "img/productos/Dualshock.jpeg",
+        "nombre": "DualShock 4",
+        "descripcion": "Control para consola PS4",
+        "precio": "2000$",
+        "marca": "Sony",
+        "modelo": "1v",
+        "id_categoria": "3"
+    },
+    "7": {
+        "id_producto": 7,
+        "foto": "img/productos/Volante.jpg",
+        "nombre": "Volante PS4",
+        "descripcion": "Volante para consola Ps4",
+        "precio": "2000$",
+        "marca": "Sony",
+        "modelo": "1v",
+        "id_categoria": "3"
+    },
+    "8": {
+        "id_producto": 8,
+        "foto": "img/productos/ControlXbox.jpg",
+        "nombre": "Control Xbox",
+        "descripcion": "Control para consola Xbox",
+        "precio": "2000$",
+        "marca": "Microsoft",
+        "modelo": "1v",
+        "id_categoria": "3"
+    },
+    "9": {
+        "id_producto": 9,
+        "foto": "img/productos/FundaSwitch.jpg",
+        "nombre": "Funda Nintendo Switch",
+        "descripcion": "Funda para la nintendo switch con espacio para auricular",
+        "precio": "2000$",
+        "marca": "Nintendo",
+        "modelo": "1v",
+        "id_categoria": "3"
+    },
+    "10": {
+        "id_producto": 10,
+        "foto": "img/productos/MarioSwitch.jpg",
+        "nombre": "Mario Kart",
+        "descripcion": "Juego Mario Kart para la consola nintendo switch",
+        "precio": "2000$",
+        "marca": "Nintendo",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "11": {
+        "id_producto": 11,
+        "foto": "img/productos/ZeldaSwitch.jpg",
+        "nombre": "Zelda Link's Awakening",
+        "descripcion": "Juego Zelda Link's para la nintendo switch",
+        "precio": "2000$",
+        "marca": "Nintendo",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "12": {
+        "id_producto": 12,
+        "foto": "img/productos/SplatoonSwitch.jpg",
+        "nombre": "Splatoon 2",
+        "descripcion": "Juego Splatoon 2 para nintendo switch",
+        "precio": "2000$",
+        "marca": "Nintendo",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "13": {
+        "id_producto": 13,
+        "foto": "img/productos/MinecraftSwitch.jpg",
+        "nombre": "Minecraft",
+        "descripcion": "Juego Minecraft para la nintendo switch",
+        "precio": "2000$",
+        "marca": "Nintendo",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "14": {
+        "id_producto": 14,
+        "foto": "img/productos/god-of-war.png",
+        "nombre": "God of war",
+        "descripcion": "Juego God Of War para la PlayStation 4",
+        "precio": "2000$",
+        "marca": "sony",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "15": {
+        "id_producto": 15,
+        "foto": "img/productos/GhostPS4.jpg",
+        "nombre": "Ghost Of Tsushima",
+        "descripcion": "Juego Ghost Of Tsushima para la PlayStation 4",
+        "precio": "2000$",
+        "marca": "sony",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "16": {
+        "id_producto": 16,
+        "foto": "img/productos/ArkPS4.jpg",
+        "nombre": "Ark Survival Evolved",
+        "descripcion": "Juego Ark Survival Evolved para la PlayStation 4",
+        "precio": "2000$",
+        "marca": "sony",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "17": {
+        "id_producto": 17,
+        "foto": "img/productos/TheDivision2.jpg",
+        "nombre": "The division 2",
+        "descripcion": "Juego The Division 2 para la PlayStation 4",
+        "precio": "2000$",
+        "marca": "sony",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "18": {
+        "id_producto": 18,
+        "foto": "img/productos/Gears5.jpg",
+        "nombre": "Gears 5",
+        "descripcion": "Juego Gears 5 para la Xbox One",
+        "precio": "2000$",
+        "marca": "Microsoft",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "19": {
+        "id_producto": 19,
+        "foto": "img/productos/Avengers.jpg",
+        "nombre": "Avengers",
+        "descripcion": "Juego Avengers para la Xbox One",
+        "precio": "2000$",
+        "marca": "Microsoft",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "20": {
+        "id_producto": 20,
+        "foto": "img/productos/PlantsVsZombies.jpg",
+        "nombre": "Plants VS Zombies",
+        "descripcion": "Juego Plants VS Zombies para la Xbox One",
+        "precio": "2000$",
+        "marca": "Microsoft",
+        "modelo": "1v",
+        "id_categoria": "4"
+    },
+    "21": {
+        "id_producto": 21,
+        "foto": "img/productos/Imagen.jpg",
+        "nombre": "Ejercicio4",
+        "descripcion": "Ejercicio4",
+        "precio": "0$",
+        "marca": "DV",
+        "modelo": "DV",
+        "id_categoria": "4"
+    }
+}
